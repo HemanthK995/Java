@@ -1,3 +1,3 @@
 function showMessage() {
-    document.getElementById("message").innerText = "Button clicked done!";
+    document.getElementById("message").innerText = "Button clicked ";
 }
